@@ -1,4 +1,9 @@
 # Ex-4-LETTER-FOLLOWED-BY-ANY-NUMBER-OF-LETTERS-OR-DIGITS-USING-YACC-USING-YACC
+## Date: 3.10.2024	
+## Reg No:212223220073
+Recognition of a valid variable which starts with a letter followed by any number of letters or digits using YACC
+			
+
 RECOGNITION OF A VALID VARIABLE WHICH STARTS WITH A LETTER FOLLOWED BY ANY NUMBER OF LETTERS OR DIGITS USING YACC
 
 # Aim:
